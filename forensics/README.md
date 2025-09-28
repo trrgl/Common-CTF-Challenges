@@ -202,6 +202,11 @@
 
 ## PDF File
 
+- `pdf-parser`
+
+  - Check for embedded file
+  - `pdf-parser --object <ID> --raw --filter file.pdf`
+
 - `pdfinfo`
 
   - Command line tool to analyse given pdf.
